@@ -7,3 +7,4 @@
 ## Print da tela da página criada (Curriculum Vitae)
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Print do currículo pronto](./public/images/image.png)
